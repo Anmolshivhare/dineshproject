@@ -4,11 +4,13 @@
      width: 100%;
      height: 500px;
 }
-
+ li a{
+    color: white;
+}
 .slider {
  overflow: hidden;
  width: 100%;
- height: 100vh;
+ height: 500px;
  position: relative;
 }
  
